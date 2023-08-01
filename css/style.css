@@ -1,0 +1,73 @@
+header{
+    text-align: center;
+    color: rgb(248, 196, 196);
+    
+}
+
+body{
+    text-align: center;
+    border-top-right-radius: 0%;
+    color: rgb(248, 196, 196);
+    background-color: #AF5F2D;
+    
+
+    /*background-color:  #562c12; #2c1717; rgb(106, 55, 55), rgb(248, 196, 196)*/
+}
+
+.logo{
+    width: 25%;
+    height: 25%;
+    margin: 1px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 1px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.mydiv{
+    list-style-type: none;
+    background: #FDD7D7;
+    color: #AF5F2D;
+    margin: 1px;
+    border-style: ridge;
+    border-color: rgb(78, 37, 13);
+}
+
+.img2{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    
+
+}
+
+.img3{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-position: right;
+
+}
+
+.img4{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-position: right;
+
+}
+
+.img5{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-position: right;
+
+}
+
+
+/* #EAB0B6 marrom vermelho 
